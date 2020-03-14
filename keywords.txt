@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For MediaKeyboard
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MediaKeyboard	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin		KEYWORD2
+end		KEYWORD2
+press		KEYWORD2
+release		KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+VOLUME_UP	LITERAL1
+VOLUME_DOWN	LITERAL1
+VOLUME_MUTE	LITERAL1
+MEDIA_PLAY_PAUSE	LITERAL1
+MEDIA_STOP	LITERAL1
+MEDIA_PREV	LITERAL1
+MEDIA_NEXT	LITERAL1
