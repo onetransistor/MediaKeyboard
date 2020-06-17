@@ -5,6 +5,12 @@
  * 
  * A rotary encoder and four push buttons are required. See the schematic at
  * https://www.onetransistor.eu/2020/03/usb-multimedia-keys-on-arduino-stm32.html
+ *
+ * RotaryEncoder library by Matthias Hertel is required for successful compilation. 
+ * You can find it in Library Manager or at:
+ * http://www.mathertel.de/Arduino/RotaryEncoderLibrary.aspx
+ *
+ * USB HID support must be enabled from Tools menu.
  * 
  * Copyright (C) 2020 One Transistor (https://www.onetransistor.eu).
  */
